@@ -200,5 +200,4 @@ html {
     height:100vh;
   }
 }
-}
 </style>
