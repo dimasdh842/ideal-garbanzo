@@ -228,4 +228,12 @@ export default {
   background: #FBC701;
 
 }
+
+@media screen and (max-width:400px) {
+  .container2{
+    width:100vw;
+    min-height:100vh;
+    background:#fff;
+  }
+}
 </style>
