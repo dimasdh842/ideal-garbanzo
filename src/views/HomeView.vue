@@ -231,9 +231,9 @@ export default {
 
 @media screen and (max-width:400px) {
   .container2{
+    overflow-x:hidden;
     width:100vw;
     min-height:100vh;
-    background:#fff;
   }
 }
 </style>
