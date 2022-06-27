@@ -195,5 +195,10 @@ html {
     color: #FFFFFF;
     margin-top: 5%;
   }
+  .container2{
+    width:100vw;
+    height:100vh;
+  }
+}
 }
 </style>
